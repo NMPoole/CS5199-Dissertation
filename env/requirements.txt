@@ -1,0 +1,8 @@
+openslide-python
+torch
+torchvision
+scikit-image
+numpy
+tensorboard
+scikit-learn
+ray[tune]

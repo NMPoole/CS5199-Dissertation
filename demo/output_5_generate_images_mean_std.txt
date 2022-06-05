@@ -1,0 +1,11 @@
+python3 5_generate_images_mean_std.py -i ../../data/Camelyon/L8/tissue/train/ -width 299 -height 299
+
+Whole-Slide Classification - Computing Mean And Std:
+Input Directory Num Images: 618 (from '../../data/Camelyon/L8/tissue/train/').
+----------------------------------------------------------------------------------------------------
+Calculating Mean and Std...
+----------------------------------------------------------------------------------------------------
+Input Directory Image Stats (at 299 x 299 pixels):
+Channel Mean = tensor([0.8572, 0.8084, 0.8592])
+Channel Std = tensor([0.1545, 0.2144, 0.1475])
+----------------------------------------------------------------------------------------------------

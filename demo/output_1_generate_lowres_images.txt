@@ -1,0 +1,326 @@
+python3 1_generate_lowres_images.py -l 8 ../../../../datasets/camelyon16/raw/training/normal/ ../../testdata/test_gen_lowres_imgs/
+
+Output directory (' ../../testdata/test_gen_lowres_imgs/ ') does not exist - creating directory.
+Generating Low-Resolution Images:
+----------------------------------------------------------------------------------------------------
+Images Generated At Resolution Level:  8
+----------------------------------------------------------------------------------------------------
+Working On Slide: 'normal_155.tif'.
+Saved 'normal_155.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 448, Height: 308).
+Working On Slide: 'normal_022.tif'.
+Saved 'normal_022.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 852).
+Working On Slide: 'normal_078.tif'.
+Saved 'normal_078.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 354, Height: 838).
+Working On Slide: 'normal_051.tif'.
+Saved 'normal_051.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 862).
+Working On Slide: 'normal_029.tif'.
+Saved 'normal_029.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 862).
+Working On Slide: 'normal_085.tif'.
+Saved 'normal_085.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 844).
+Working On Slide: 'normal_103.tif'.
+Saved 'normal_103.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 400, Height: 224).
+Working On Slide: 'normal_102.tif'.
+Saved 'normal_102.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 400, Height: 322).
+Working On Slide: 'normal_132.tif'.
+Saved 'normal_132.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 512, Height: 350).
+Working On Slide: 'normal_067.tif'.
+Saved 'normal_067.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_008.tif'.
+Saved 'normal_008.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_030.tif'.
+Saved 'normal_030.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 854).
+Working On Slide: 'normal_062.tif'.
+Saved 'normal_062.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 842).
+Working On Slide: 'normal_073.tif'.
+Saved 'normal_073.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 862).
+Working On Slide: 'normal_018.tif'.
+Saved 'normal_018.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_039.tif'.
+Saved 'normal_039.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 378, Height: 864).
+Working On Slide: 'normal_032.tif'.
+Saved 'normal_032.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_095.tif'.
+Saved 'normal_095.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 854).
+Working On Slide: 'normal_121.tif'.
+Saved 'normal_121.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 624, Height: 434).
+Working On Slide: 'normal_126.tif'.
+Saved 'normal_126.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 528, Height: 294).
+Working On Slide: 'normal_122.tif'.
+Saved 'normal_122.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 384, Height: 406).
+Working On Slide: 'normal_125.tif'.
+Saved 'normal_125.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 464, Height: 420).
+Working On Slide: 'normal_093.tif'.
+Saved 'normal_093.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 378, Height: 832).
+Working On Slide: 'normal_025.tif'.
+Saved 'normal_025.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_058.tif'.
+Saved 'normal_058.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 854).
+Working On Slide: 'normal_114.tif'.
+Saved 'normal_114.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 512, Height: 392).
+Working On Slide: 'normal_144.tif'.
+Saved 'normal_144.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 370, Height: 822).
+Working On Slide: 'normal_118.tif'.
+Saved 'normal_118.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 480, Height: 336).
+Working On Slide: 'normal_156.tif'.
+Saved 'normal_156.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 400, Height: 322).
+Working On Slide: 'normal_002.tif'.
+Saved 'normal_002.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_138.tif'.
+Saved 'normal_138.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 752, Height: 420).
+Working On Slide: 'normal_129.tif'.
+Saved 'normal_129.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 816, Height: 350).
+Working On Slide: 'normal_133.tif'.
+Saved 'normal_133.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 592, Height: 364).
+Working On Slide: 'normal_105.tif'.
+Saved 'normal_105.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 752, Height: 322).
+Working On Slide: 'normal_006.tif'.
+Saved 'normal_006.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 848).
+Working On Slide: 'normal_016.tif'.
+Saved 'normal_016.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_017.tif'.
+Saved 'normal_017.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 862).
+Working On Slide: 'normal_101.tif'.
+Saved 'normal_101.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 640, Height: 434).
+Working On Slide: 'normal_007.tif'.
+Saved 'normal_007.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_034.tif'.
+Saved 'normal_034.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_027.tif'.
+Saved 'normal_027.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_107.tif'.
+Saved 'normal_107.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 544, Height: 392).
+Working On Slide: 'normal_084.tif'.
+Saved 'normal_084.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_094.tif'.
+Saved 'normal_094.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 862).
+Working On Slide: 'normal_116.tif'.
+Saved 'normal_116.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 512, Height: 154).
+Working On Slide: 'normal_158.tif'.
+Saved 'normal_158.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 576, Height: 322).
+Working On Slide: 'normal_131.tif'.
+Saved 'normal_131.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 464, Height: 350).
+Working On Slide: 'normal_145.tif'.
+Saved 'normal_145.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 560, Height: 434).
+Working On Slide: 'normal_142.tif'.
+Saved 'normal_142.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 656, Height: 434).
+Working On Slide: 'normal_146.tif'.
+Saved 'normal_146.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 592, Height: 322).
+Working On Slide: 'normal_113.tif'.
+Saved 'normal_113.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 656, Height: 294).
+Working On Slide: 'normal_054.tif'.
+Saved 'normal_054.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 378, Height: 864).
+Working On Slide: 'normal_041.tif'.
+Saved 'normal_041.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_014.tif'.
+Saved 'normal_014.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_080.tif'.
+Saved 'normal_080.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 862).
+Working On Slide: 'normal_098.tif'.
+Saved 'normal_098.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 378, Height: 864).
+Working On Slide: 'normal_139.tif'.
+Saved 'normal_139.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 688, Height: 392).
+Working On Slide: 'normal_035.tif'.
+Saved 'normal_035.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_066.tif'.
+Saved 'normal_066.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 842).
+Working On Slide: 'normal_038.tif'.
+Saved 'normal_038.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_100.tif'.
+Saved 'normal_100.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 832).
+Working On Slide: 'normal_061.tif'.
+Saved 'normal_061.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_109.tif'.
+Saved 'normal_109.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 448, Height: 294).
+Working On Slide: 'normal_031.tif'.
+Saved 'normal_031.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 380, Height: 864).
+Working On Slide: 'normal_059.tif'.
+Saved 'normal_059.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 382, Height: 864).
+Working On Slide: 'normal_108.tif'.
+Saved 'normal_108.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 352, Height: 280).
+Working On Slide: 'normal_077.tif'.
+Saved 'normal_077.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1716).
+Working On Slide: 'normal_135.tif'.
+Saved 'normal_135.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 800, Height: 868).
+Working On Slide: 'normal_083.tif'.
+Saved 'normal_083.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_065.tif'.
+Saved 'normal_065.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 756, Height: 1672).
+Working On Slide: 'normal_009.tif'.
+Saved 'normal_009.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1724).
+Working On Slide: 'normal_115.tif'.
+Saved 'normal_115.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 832, Height: 644).
+Working On Slide: 'normal_134.tif'.
+Saved 'normal_134.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1152, Height: 840).
+Working On Slide: 'normal_012.tif'.
+Saved 'normal_012.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_044.tif'.
+Saved 'normal_044.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1716).
+Working On Slide: 'normal_052.tif'.
+Saved 'normal_052.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1644).
+Working On Slide: 'normal_023.tif'.
+Saved 'normal_023.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1696).
+Working On Slide: 'normal_104.tif'.
+Saved 'normal_104.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1056, Height: 840).
+Working On Slide: 'normal_074.tif'.
+Saved 'normal_074.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1676).
+Working On Slide: 'normal_128.tif'.
+Saved 'normal_128.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1312, Height: 728).
+Working On Slide: 'normal_063.tif'.
+Saved 'normal_063.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1668).
+Working On Slide: 'normal_055.tif'.
+Saved 'normal_055.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_111.tif'.
+Saved 'normal_111.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1440, Height: 840).
+Working On Slide: 'normal_120.tif'.
+Saved 'normal_120.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1344, Height: 840).
+Working On Slide: 'normal_013.tif'.
+Saved 'normal_013.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_064.tif'.
+Saved 'normal_064.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1696).
+Working On Slide: 'normal_096.tif'.
+Saved 'normal_096.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1724).
+Working On Slide: 'normal_152.tif'.
+Saved 'normal_152.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 864, Height: 560).
+Working On Slide: 'normal_150.tif'.
+Saved 'normal_150.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 512, Height: 476).
+Working On Slide: 'normal_037.tif'.
+Saved 'normal_037.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1684).
+Working On Slide: 'normal_046.tif'.
+Saved 'normal_046.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_112.tif'.
+Saved 'normal_112.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 992, Height: 840).
+Working On Slide: 'normal_070.tif'.
+Saved 'normal_070.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1716).
+Working On Slide: 'normal_019.tif'.
+Saved 'normal_019.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1732).
+Working On Slide: 'normal_123.tif'.
+Saved 'normal_123.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 704, Height: 504).
+Working On Slide: 'normal_160.tif'.
+Saved 'normal_160.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1344, Height: 728).
+Working On Slide: 'normal_076.tif'.
+Saved 'normal_076.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1724).
+Working On Slide: 'normal_026.tif'.
+Saved 'normal_026.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1724).
+Working On Slide: 'normal_149.tif'.
+Saved 'normal_149.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1696, Height: 868).
+Working On Slide: 'normal_159.tif'.
+Saved 'normal_159.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 928, Height: 672).
+Working On Slide: 'normal_011.tif'.
+Saved 'normal_011.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_110.tif'.
+Saved 'normal_110.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 928, Height: 756).
+Working On Slide: 'normal_127.tif'.
+Saved 'normal_127.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 864, Height: 868).
+Working On Slide: 'normal_001.tif'.
+Saved 'normal_001.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_137.tif'.
+Saved 'normal_137.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1472, Height: 784).
+Working On Slide: 'normal_119.tif'.
+Saved 'normal_119.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 704, Height: 784).
+Working On Slide: 'normal_048.tif'.
+Saved 'normal_048.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1656).
+Working On Slide: 'normal_153.tif'.
+Saved 'normal_153.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 896, Height: 672).
+Working On Slide: 'normal_033.tif'.
+Saved 'normal_033.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1724).
+Working On Slide: 'normal_124.tif'.
+Saved 'normal_124.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1088, Height: 756).
+Working On Slide: 'normal_060.tif'.
+Saved 'normal_060.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_042.tif'.
+Saved 'normal_042.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 760, Height: 1700).
+Working On Slide: 'normal_036.tif'.
+Saved 'normal_036.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_069.tif'.
+Saved 'normal_069.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1684).
+Working On Slide: 'normal_079.tif'.
+Saved 'normal_079.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 680, Height: 1724).
+Working On Slide: 'normal_099.tif'.
+Saved 'normal_099.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 760, Height: 1684).
+Working On Slide: 'normal_004.tif'.
+Saved 'normal_004.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 752, Height: 1708).
+Working On Slide: 'normal_043.tif'.
+Saved 'normal_043.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1696).
+Working On Slide: 'normal_049.tif'.
+Saved 'normal_049.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_005.tif'.
+Saved 'normal_005.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_053.tif'.
+Saved 'normal_053.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1652).
+Working On Slide: 'normal_003.tif'.
+Saved 'normal_003.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_141.tif'.
+Saved 'normal_141.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1024, Height: 364).
+Working On Slide: 'normal_072.tif'.
+Saved 'normal_072.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 760, Height: 1724).
+Working On Slide: 'normal_117.tif'.
+Saved 'normal_117.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1312, Height: 588).
+Working On Slide: 'normal_147.tif'.
+Saved 'normal_147.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1248, Height: 672).
+Working On Slide: 'normal_157.tif'.
+Saved 'normal_157.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 896, Height: 756).
+Working On Slide: 'normal_010.tif'.
+Saved 'normal_010.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_097.tif'.
+Saved 'normal_097.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 748, Height: 1664).
+Working On Slide: 'normal_057.tif'.
+Saved 'normal_057.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1708).
+Working On Slide: 'normal_082.tif'.
+Saved 'normal_082.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1688).
+Working On Slide: 'normal_015.tif'.
+Saved 'normal_015.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1716).
+Working On Slide: 'normal_143.tif'.
+Saved 'normal_143.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 928, Height: 644).
+Working On Slide: 'normal_140.tif'.
+Saved 'normal_140.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 768, Height: 812).
+Working On Slide: 'normal_024.tif'.
+Saved 'normal_024.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_021.tif'.
+Saved 'normal_021.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1696).
+Working On Slide: 'normal_154.tif'.
+Saved 'normal_154.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1120, Height: 616).
+Working On Slide: 'normal_089.tif'.
+Saved 'normal_089.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_151.tif'.
+Saved 'normal_151.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 1216, Height: 840).
+Working On Slide: 'normal_020.tif'.
+Saved 'normal_020.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_148.tif'.
+Saved 'normal_148.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 960, Height: 532).
+Working On Slide: 'normal_028.tif'.
+Saved 'normal_028.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_130.tif'.
+Saved 'normal_130.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 672, Height: 700).
+Working On Slide: 'normal_136.tif'.
+Saved 'normal_136.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 960, Height: 616).
+Working On Slide: 'normal_091.tif'.
+Saved 'normal_091.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1684).
+Working On Slide: 'normal_050.tif'.
+Saved 'normal_050.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1724).
+Working On Slide: 'normal_090.tif'.
+Saved 'normal_090.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1688).
+Working On Slide: 'normal_068.tif'.
+Saved 'normal_068.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1696).
+Working On Slide: 'normal_106.tif'.
+Saved 'normal_106.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 960, Height: 756).
+Working On Slide: 'normal_081.tif'.
+Saved 'normal_081.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 760, Height: 1644).
+Working On Slide: 'normal_071.tif'.
+Saved 'normal_071.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 632, Height: 1652).
+Working On Slide: 'normal_047.tif'.
+Saved 'normal_047.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_075.tif'.
+Saved 'normal_075.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1668).
+Working On Slide: 'normal_092.tif'.
+Saved 'normal_092.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 760, Height: 1728).
+Working On Slide: 'normal_088.tif'.
+Saved 'normal_088.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 760, Height: 1728).
+Working On Slide: 'normal_056.tif'.
+Saved 'normal_056.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1676).
+Working On Slide: 'normal_087.tif'.
+Saved 'normal_087.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Working On Slide: 'normal_040.tif'.
+Saved 'normal_040.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1684).
+Working On Slide: 'normal_045.tif'.
+Saved 'normal_045.png' to '../../testdata/test_gen_lowres_imgs/' (Width: 764, Height: 1728).
+Average Conversion Time (h:m:s) = 0:00:00.432754
